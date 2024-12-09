@@ -12,6 +12,8 @@ This project implements a custom Stochastic Gradient Boosting (SGB) model for re
 * Create and activate environment:
 ```
 conda env create -n boostinglearner -f environment.yaml
+```
+```
 conda activate boostinglearner
 ```
 
@@ -25,8 +27,8 @@ jupyter notebook
 
 ## Authors
 
-Shufan He: shufanhe02@gmail.com
-Chenrui Zhang: chenrui_zhang@brown.edu
+Shufan He: shufanhe02@gmail.com\
+Chenrui Zhang: chenrui_zhang@brown.edu\
 Haosheng Wang: haosheng_wang@brown.edu
 
 
