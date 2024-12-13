@@ -23,7 +23,7 @@ conda activate boostinglearner
 ```
 jupyter notebook
 ```
-The weakleaner.ipynb contains some extra tests for the weaklearner.
+* The weakleaner.ipynb contains some extra tests for the weaklearner.
 
 
 ## Authors
